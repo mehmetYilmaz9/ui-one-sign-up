@@ -9,5 +9,10 @@ Test Unit :
 -Jest.js
 -Enzyme
 
+Idea for Better User Experience :
+-Add a Modal after signing up (every dev use console.log)
+-Link in a footer
+-Keeping a minimalist style
+-Use the principe of Clean Code
 
 ## Deploy on Vercel : https://ui-one-sign-up.vercel.app/
