@@ -1,4 +1,5 @@
 Daily Challenge UI 1 - Sign Up Form 
+Duration : 3h
 
 Front-End :
 -Next.js
