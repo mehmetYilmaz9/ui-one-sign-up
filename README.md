@@ -4,7 +4,6 @@ Front-End :
 -Next.js
 -Typescript
 -Tailwind Css
--Node.js
 
 Test Unit :
 -Jest.js
