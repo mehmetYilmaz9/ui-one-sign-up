@@ -9,7 +9,7 @@ Back-End Idea :
 -Add NextAuth authentication solution with the CMS Strapi for a loggin system
 -Can use Passwordless solution 
 
-Test Unit :
+Test Unit (need to setup --- soon) :
 -Jest.js
 -Enzyme
 
