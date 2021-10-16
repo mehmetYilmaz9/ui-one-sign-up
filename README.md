@@ -9,6 +9,8 @@ Test Unit :
 -Jest.js
 -Enzyme
 
+Deployment: Vercel (very fast)
+
 Idea for Better User Experience :
 -Add a Modal after signing up (every dev use console.log)
 -Link in a footer
